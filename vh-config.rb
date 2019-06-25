@@ -5,7 +5,7 @@ class VhConfig < Formula
   desc "Config generator for Apache Virtual Host"
   homepage ""
   url "https://github.com/nikola-bleech/vh-config/archive/v0.0.3.tar.gz"
-  sha256 "51e8dd242a508c236cb0cb8492c5867a6bb07f12cfb305cb2a5d4728eb75b603"
+  sha256 "7c933282b479dd80efa54f19cb527ec3c3a49dcc5ef5c8dff362385521a5546a"
   version "0.0.3"
   # depends_on "cmake" => :build
 
